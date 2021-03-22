@@ -1,5 +1,5 @@
-# SER
-Perform emotion recognition from speech using deep learning strategy
+# Audio feature extraction
+Extracting audio features in Python
 
 This repository contains the code for extracting the commonly-used audio features in audio analysis, including:
 1. Amplitude envelop
