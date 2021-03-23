@@ -7,3 +7,5 @@ This repository contains the code for extracting the commonly-used audio feature
 3. ZCR
 4. RMS energy
 5. Spectral centroid and band width
+6. (Log) Mel-spectrogram
+7. A complete example of extracting diverse kinds of audio features
